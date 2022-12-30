@@ -1,0 +1,6 @@
+[submodule "folioboard-frontend"]
+	path = folioboard-frontend
+	url = https://github.com/ckcherry23/folioboard-frontend
+[submodule "folioboard-backend"]
+	path = folioboard-backend
+	url = https://github.com/ckcherry23/folioboard-backend
